@@ -1,4 +1,4 @@
-# PythonBasicPrograms
+# Python Basic Programs
 Python Basic Programs
 1. Python Fundamentals.
 2. FlowControls and Loops in Python.
